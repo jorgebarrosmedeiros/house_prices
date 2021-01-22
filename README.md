@@ -1,1 +1,3 @@
-# house_prices
+# HOUSE PRICES AND MACHINE LEARNING
+
+![](img/capa.jpeg)
